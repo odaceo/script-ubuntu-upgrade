@@ -4,7 +4,7 @@
 
 ## Description
 
-Bash script for keeping [Vagrant](https://www.vagrantup.com) machine up-to-date on Ubuntu.
+Bash script for keeping your system up-to-date on Ubuntu.
 
 ## Provisioning Vagrant machine
 

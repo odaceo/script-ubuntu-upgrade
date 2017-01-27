@@ -1,4 +1,4 @@
-# Script | Ubuntu | Upgrade
+# Script :: Ubuntu :: Upgrade
 
 [![License](https://img.shields.io/github/license/odaceo/script-ubuntu-upgrade.svg)](LICENSE)
 
